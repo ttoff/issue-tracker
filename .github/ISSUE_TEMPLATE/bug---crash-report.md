@@ -17,6 +17,7 @@ assignees: ''
 <!-- A clear and concise description of what you expected to happen. -->
 
 ## Attachments
+<!-- Please attach a log file -->
 <!-- If applicable, add screenshots -->
 
 ## System Info
