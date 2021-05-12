@@ -27,7 +27,9 @@ assignees: ''
  - GPU: 
  - GPU Drivers: 
 
-## Game Version
+## Game Info
+ - Game Version: 
+ - Mini-server or offline?: 
 
 ## Checklist
 - [ ] Did you check for duplicate issues?
