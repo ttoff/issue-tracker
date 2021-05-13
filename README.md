@@ -27,5 +27,9 @@ If you do not know what a certain label means, do not use it.
 Try your best to avoid submitting a duplicate issue.
 ```
 
+# How do I suggest a feature or change?
+Head into our [Discord Server](https://discord.gg/UCfCuJ2), or head over to the [discussions](https://github.com/ttoff/issue-tracker/discussions) tab and start a discussion.
+
+
 # Join our Discord
 This issue tracker should not be seen as a substitute for getting support help. If you need real-time help with an issue you're having with the game, feel free to join our [Discord Server](https://discord.gg/UCfCuJ2) so we can help you out.
